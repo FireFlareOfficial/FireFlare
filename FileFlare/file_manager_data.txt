@@ -1,0 +1,3 @@
+LOCKED_FILES: /home/radvilas/Downloads/Test /home/radvilas/Downloads/Test /home/radvilas/Downloads/Logo.png
+PINNED_FILES: /home/radvilas/Downloads/download
+ADMIN_STATUS: true
