@@ -16,3 +16,7 @@ This is on development and beta, please note that this has many bugs and it work
 If you type Open.Advanced.Mode you will be administrator and can edit files, Non-Admin users cannot edit any files but can search, As admin you can lock, unlock, pin and unpin.
 
 Version 1 Beta
+
+
+
+This was my first project i made using only .sh document file so
